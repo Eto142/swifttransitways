@@ -571,7 +571,7 @@
         <button class="hamburger-btn" id="mobile-hamburger-btn" aria-label="Toggle navigation">
             <span></span><span></span><span></span>
         </button>
-        <span class="mobile-logo">Santaship Admin</span>
+        <span class="mobile-logo">Swifttransitways Admin</span>
     </div>
 
     <!-- Sidebar backdrop -->
@@ -584,7 +584,7 @@
                 <span></span><span></span><span></span>
             </button>
             <a class="navbar-brand" href="/">
-                <img src="{{ asset('assets/images/logo.png') }}" alt="Santaship Logistics" width="50px">
+                <img src="{{ asset('wp-content/uploads/2022/04/Screenshot_20231009_092214-150x150.png') }}" alt="Swifttransitways Logistics" width="50px">
             </a>
         </div>
 
